@@ -1,4 +1,4 @@
-<?php namespace LaravelPlus\Addons\ToolKit\Webix\Providers;
+<?php namespace LaravelPlus\Addons\Toolkit\Webix\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;
@@ -10,7 +10,7 @@ class RouteServiceProvider extends ServiceProvider {
 	 *
 	 * @var string
 	 */
-	protected $prefix = 'addons/a';
+	protected $prefix = 'addons/toolkit/webix';
 
 	/**
 	 * This namespace is applied to the controller routes in your routes file.
@@ -19,7 +19,7 @@ class RouteServiceProvider extends ServiceProvider {
 	 *
 	 * @var string
 	 */
-	protected $namespace = 'LaravelPlus\Addons\ToolKit\Webix\Http\Controllers';
+	protected $namespace = 'LaravelPlus\Addons\Toolkit\Webix\Http\Controllers';
 
 	/**
 	 * Define your route model bindings, pattern filters, etc.

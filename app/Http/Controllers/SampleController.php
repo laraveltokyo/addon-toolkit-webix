@@ -1,4 +1,4 @@
-<?php namespace LaravelPlus\Addons\ToolKit\Webix\Http\Controllers;
+<?php namespace LaravelPlus\Addons\Toolkit\Webix\Http\Controllers;
 
 class SampleController extends BaseController {
 

@@ -1,4 +1,4 @@
-<?php namespace LaravelPlus\Addons\ToolKit\Webix\Providers;
+<?php namespace LaravelPlus\Addons\Toolkit\Webix\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
